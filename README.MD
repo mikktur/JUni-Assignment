@@ -2,7 +2,7 @@
 it check if the arrays are the same length,type and the values are exactly the same.
 ### . What will happen if the arrays a1 and a2 are not equal in testSingleDimensionalArrayEquality?
 
-The test will fail and it will inform the expected result and the actual result. ie "array Lenghts differ etc"
+The test will fail and it will inform the developer with the expected result and the actual result. also it will show wheres the "missmatch" ie "array Lenghts differ etc"
 
 ### How does the assertArrayEquals method handle multi-dimensional arrays as seen in testMultiDimensionalArrayEquality?
 
